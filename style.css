@@ -1,0 +1,29 @@
+
+.borders{
+    border-left: solid 1px darkgray;
+    border-right: solid 1px darkgray;
+    box-shadow: -5px 0 5px -5px #333, 5px 0 5px -5px #333;
+}
+
+img.column {
+    padding: 0;
+    box-shadow: -5px 0 5px -5px #333, 5px 0 5px -5px #333;
+}
+
+.right {
+    border-right: solid 1px darkgray;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+.left {
+    border-left: solid 1px darkgray;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+.middle {
+    box-shadow: 0 0 5px rgba(0,0,0,0.5);
+}
+
+div.select {
+    display: inline-block;
+}
